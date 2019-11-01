@@ -16,7 +16,7 @@ gridlayout: false # change to true if you want grd layout
 
 # Header and footer text
 # Change this text to yourown
-header_text: Hello 
+header_text: Hello to my bookworld
 
 # find an image for your own home page and put it into the images folder
 header_feature_image: images/jaredd-craig-HH4WBGNyltc-unsplash.jpg
