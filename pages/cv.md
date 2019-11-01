@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: CV
 subtitle: All about my life #optional sub title to the post
 permalink: /cv/
 header_feature_image:  /images/log.jpg #replace this for yours
