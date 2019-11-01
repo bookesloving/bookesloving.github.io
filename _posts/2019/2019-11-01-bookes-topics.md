@@ -1,6 +1,6 @@
 ---
 layout: post
-title: book topics - for October
+title: book topics - FOR October
 date: 2019-11-01 12:10
 published: true
 header_feature_image: images/muhammad-haikal-sjukri--RMBf_xSf2U-unsplash.jpg
